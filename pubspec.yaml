@@ -14,7 +14,7 @@ dependencies:
   provider: ^6.1.2
 
   # HTTP client handling API calls
-  http: ^1.2.2
+  http: ^1.6.0
 
   # Chace management
   cached_network_image: ^3.4.1
